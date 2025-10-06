@@ -1,12 +1,11 @@
 # 🔍 Extrair CEPs - Correios
-
-Uma ferramenta web moderna para extrair todos os CEPs de um bairro específico usando a base de dados oficial dos Correios.
+Uma ferramenta web moderna e eficiente para extrair CEPs por bairro diretamente da base oficial dos Correios. Ideal para e-commerces que precisam configurar fretes por região, esta solução automatiza e simplifica o processo de obtenção de CEPs de forma organizada e confiável.
 
 ## ✨ Características
 
 - 🚀 **Extração Completa**: Busca todos os CEPs de um bairro, não apenas os primeiros 50
 - 🎯 **Interface Moderna**: Design responsivo e intuitivo
-- 🔒 **CAPTCHA Automático**: Resolução manual do CAPTCHA dos Correios
+- 🔒 **CAPTCHA**: Resolução manual do CAPTCHA dos Correios
 - 📁 **Organização Inteligente**: Estrutura de pastas por estado/cidade
 - 📊 **Logs Centralizados**: Sistema de debug e monitoramento
 - ⚡ **Paginação Automática**: Percorre todas as páginas de resultados
@@ -17,7 +16,6 @@ Uma ferramenta web moderna para extrair todos os CEPs de um bairro específico u
 - **Backend**: PHP 7.4+
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
 - **Integração**: API dos Correios via cURL
-- **Estrutura**: Arquitetura modular (PHP/CSS/JS separados)
 
 ## 📋 Pré-requisitos
 
