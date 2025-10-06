@@ -1,0 +1,62 @@
+# Logs
+logs/
+*.log
+
+# Resultados de CEPs
+resultados/
+
+# Arquivos temporários
+debug_resposta.html
+debug_ajax_*.json
+debug_ajax_in*.json
+debug_ajax_p*.json
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Cache
+*.tmp
+*.temp
+*.cache
+
+# Arquivos de backup
+*.bak
+*.backup
+*~
+
+# Arquivos de sessão PHP
+sess_*
+
+# Arquivos de cookie temporários
+correios_*
+
+# Arquivos de erro PHP
+error_log
+php_errors.log
+
+# Arquivos de configuração local
+config.local.php
+.env.local
+
+# Node modules (se usar npm/yarn no futuro)
+node_modules/
+
+# Composer (se usar no futuro)
+vendor/
+
+# Arquivos de teste
+test_*
+*_test.*
+
+# Arquivos de documentação temporária
+README_temp.md
+CHANGELOG_temp.md
